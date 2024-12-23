@@ -26,7 +26,7 @@ const Nav = () => {
 
   return (
     <div className="z-50 flex lg:flex-row flex-col justify-between items-center py-[18px] px-[3%] fixed right-0 left-0 bg-black">
-      <div className="hidden lg:flex items-center gap-[20px]">
+      <div className="hidden lg:flex items-center gap-[10px]">
         <p className="text-white font-semibold">#0x33crypt</p>
         <p className="text-white font-semibold">#WebPro</p>
       </div>
@@ -46,7 +46,7 @@ const Nav = () => {
       </div>
 
       <div className="flex w-full lg:w-min justify-between items-center mt-[15px] lg:mt-0">
-        <div className="flex lg:hidden gap-[20px]">
+        <div className="flex lg:hidden gap-[10px]">
           <p className="text-white font-semibold">#0x33crypt</p>
           <p className="text-white font-semibold">#WebPro</p>
         </div>
