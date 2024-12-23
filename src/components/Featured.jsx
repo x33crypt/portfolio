@@ -41,7 +41,7 @@ const Featured = () => {
             2UNGEE STUDIOS
           </p>
         </div>
-        <div className="text-white flex-1  lg:border-l border-[rgb(94,94,94)]">
+        <div className="text-white flex flex-col lg:gap-0 gap-[80px] flex-1  lg:border-l border-[rgb(94,94,94)]">
           <div className="flex lg:flex-row flex-col lg:h-[400px]">
             <div className=" lg:hidden flex px-[3%]">
               <img
