@@ -48,6 +48,7 @@ const Nav = () => {
       <div className="flex w-full lg:w-min justify-between items-center mt-[15px] lg:mt-0">
         <div className="flex lg:hidden">
           <p className="text-white font-semibold">#0x33crypt</p>
+          <p className="text-white font-semibold">#WebPro</p>
         </div>
         <div className="w-max">
           <a className="" href="mailto:adeleke21l4l@gmail.com">
