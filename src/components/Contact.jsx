@@ -7,7 +7,7 @@ const Contact = () => {
       id="footer"
     >
       <div className="flex flex-col justify-center items-center gap-[15px]">
-        <p className="text-[rgb(88,88,88)] lg:text-[80px] text-[30px] text-center w-[350px] sm:w-full lg:leading-[85px] leading-[30px]">
+        <p className="text-[rgb(88,88,88)] lg:text-[80px] text-[30px] font-[300] text-center w-[350px] sm:w-full lg:leading-[85px] leading-[40px]">
           FOR YOUR WORKS AND COLLABORATION
         </p>
         <a className="" href="mailto:adeleke21l4l@gmail.com">

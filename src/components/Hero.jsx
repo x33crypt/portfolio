@@ -3,7 +3,7 @@ import image from "./../assets/image-2.png";
 
 const Hero = () => {
   return (
-    <div className="bg-black px-[3%] pt-[170px] lg:py-0 flex flex-1 lg:flex-row flex-col lg:h-[600px] justify-between items-center">
+    <div className="bg-black px-[3%] pt-[150px] lg:py-0 flex flex-1 lg:flex-row flex-col lg:h-[600px] justify-between items-center">
       <div className=" z-10 flex flex-col justify-center items-center ">
         <p className="mt-[20px] text-center lg:text-[140px] md:text-[120px] text-[80px] text-white font-[Tiny5] lg:leading-[110px] md:leading-[90px] leading-[70px]">
           LUKMAN ADELEKE
@@ -14,9 +14,9 @@ const Hero = () => {
           and back-end technologies.
         </p>
       </div>
-      <div className=" lg:mt-0 mt-[150px] flex justify-center items-center w-full">
+      <div className=" lg:mt-0 mt-[20px] flex justify-center items-center w-full">
         <img
-          className=" lg:w-[440px] md:w-[200px] w-[130px]"
+          className=" lg:w-[440px] md:w-[350px] w-[300px]"
           src={image}
           alt=""
         />
