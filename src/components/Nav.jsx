@@ -46,7 +46,7 @@ const Nav = () => {
       </div>
 
       <div className="flex w-full lg:w-min justify-between items-center mt-[15px] lg:mt-0">
-        <div className="flex lg:hidden">
+        <div className="flex lg:hidden gap-[20px]">
           <p className="text-white font-semibold">#0x33crypt</p>
           <p className="text-white font-semibold">#WebPro</p>
         </div>
