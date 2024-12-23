@@ -50,7 +50,7 @@ const Featured = () => {
                 alt=""
               />
             </div>
-            <div className="flex-1 flex flex-col gap-[30px] lg:p-[20px] p-[3%] border-r border-[rgb(94,94,94)]">
+            <div className="flex-1 flex flex-col justify-between gap-[20px] lg:p-[20px] p-[3%] border-r border-[rgb(94,94,94)]">
               <div className="flex flex-wrap gap-[10px]">
                 <p className="bg-[rgb(30,30,30)] px-[15px] lg:py-[10px] py-[8px] lg:text-[16px] text-[15px] w-max rounded-[10px] font-[200]">
                   Photography
@@ -107,7 +107,7 @@ const Featured = () => {
                 alt=""
               />
             </div>
-            <div className="flex-1 flex flex-col gap-[30px] lg:p-[20px] p-[3%] border-r border-[rgb(94,94,94)]">
+            <div className="flex-1 flex flex-col justify-between gap-[20px] lg:p-[20px] p-[3%] border-r border-[rgb(94,94,94)]">
               <div className="flex flex-wrap gap-[10px]">
                 <p className="bg-[rgb(30,30,30)] px-[15px] lg:py-[10px] py-[8px] lg:text-[16px] text-[15px] w-max rounded-[10px] font-[200]">
                   Photography
