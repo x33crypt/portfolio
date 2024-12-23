@@ -26,8 +26,9 @@ const Nav = () => {
 
   return (
     <div className="z-50 flex lg:flex-row flex-col justify-between items-center py-[18px] px-[3%] fixed right-0 left-0 bg-black">
-      <div className="hidden lg:flex items-center">
+      <div className="hidden lg:flex items-center gap-[20px]">
         <p className="text-white font-semibold">#0x33crypt</p>
+        <p className="text-white font-semibold">#WebPro</p>
       </div>
 
       <div className=" flex justify-center items-center w-full">

@@ -43,7 +43,7 @@ const TechStack = () => {
               src={service1}
               alt=""
             />
-            <p className="z-30 absolute lg:bottom-[30px] bottom-[20px] lg:left-[40px] left-[15px] lg:text-[32px] text-[28px] text-white w-[200px] font-[300] leading-[40px]">
+            <p className="z-30 absolute lg:bottom-[30px] bottom-[20px] lg:left-[40px] left-[15px] lg:text-[32px] text-[30px] text-white w-[200px] font-[300] leading-[40px]">
               Web Development
             </p>
           </div>
@@ -61,7 +61,7 @@ const TechStack = () => {
               src={service2}
               alt=""
             />
-            <p className="z-30 absolute lg:bottom-[30px] bottom-[20px] lg:left-[40px] left-[15px] lg:text-[32px] text-[28px] text-white w-[200px] font-[300] leading-[40px]">
+            <p className="z-30 absolute lg:bottom-[30px] bottom-[20px] lg:left-[40px] left-[15px] lg:text-[32px] text-[30px] text-white w-[200px] font-[300] leading-[40px]">
               Full-Stack Application
             </p>
           </div>
@@ -81,7 +81,7 @@ const TechStack = () => {
               src={service3}
               alt=""
             />
-            <p className="z-30 absolute lg:bottom-[30px] bottom-[20px] lg:left-[40px] left-[15px] lg:text-[32px] text-[28px] text-white w-[200px] font-[300] leading-[35px]">
+            <p className="z-30 absolute lg:bottom-[30px] bottom-[20px] lg:left-[40px] left-[15px] lg:text-[32px] text-[30px] text-white w-[200px] font-[300] leading-[35px]">
               E-Commerce Solutions
             </p>
           </div>
@@ -99,7 +99,7 @@ const TechStack = () => {
               src={service4}
               alt=""
             />
-            <p className="z-30 absolute lg:bottom-[30px] bottom-[20px] lg:left-[40px] left-[15px] lg:text-[32px] text-[28px] text-white w-[200px] font-[300] leading-[35px]">
+            <p className="z-30 absolute lg:bottom-[30px] bottom-[20px] lg:left-[40px] left-[15px] lg:text-[32px] text-[30px] text-white w-[200px] font-[300] leading-[35px]">
               API Integration
             </p>
           </div>
@@ -117,7 +117,7 @@ const TechStack = () => {
               src={service5}
               alt=""
             />
-            <p className="z-30 absolute lg:bottom-[30px] bottom-[20px] lg:left-[40px] left-[15px] lg:text-[32px] text-[28px] text-white w-[300px] font-[200] leading-[35px]">
+            <p className="z-30 absolute lg:bottom-[30px] bottom-[20px] lg:left-[40px] left-[15px] lg:text-[32px] text-[30px] text-white w-[300px] font-[200] leading-[35px]">
               Performance Optimization & SEO
             </p>
           </div>
