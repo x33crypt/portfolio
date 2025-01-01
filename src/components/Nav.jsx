@@ -19,10 +19,7 @@ const Nav = () => {
     return `${formattedHours}:${minutes} ${period}`;
   }
 
-  const scrollToSection = () => {
-    const section = document.getElementById("footer");
-    section.scrollIntoView({ behavior: "smooth" });
-  };
+
 
   return (
     <div className="z-50 flex lg:flex-row flex-col justify-between items-center py-[18px] px-[3%] fixed right-0 left-0 bg-black">
